@@ -2,7 +2,7 @@ $(function(){
   //on click or enter get the relevant photo
   $('#entry').on('submit', changeBackground);
 
-  //match input to keyword
+  //match input to keyword 
   function changeBackground(e){
 
     e.preventDefault();
